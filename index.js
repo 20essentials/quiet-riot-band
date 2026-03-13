@@ -1,6 +1,5 @@
 /******************** SONGS ********************/
 import { nameBand, nameSongs } from './config.js';
-
 const MAXIMUM_LENGTH_OF_PLAYLIST = 20;
 const arraySongs = Array.from({ length: MAXIMUM_LENGTH_OF_PLAYLIST }, (_, i) => `songs/n${i + 1}.mp3`);
 
