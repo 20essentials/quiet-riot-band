@@ -1,0 +1,23 @@
+export const nameBand = 'QUIET RIOT';
+export let nameSongs = [
+	"METAL HEALTH ", /*1*/
+	"CUM ON FEEL THE NOIZE", /*2*/
+	"MAMA WEER ALL CRAZEE NOW", /*3*/
+	"SLICK BLACK CADILLAC", /*4*/
+	"THUNDERBIRD", /*5*/
+	"BREATHLESS", /*6*/
+	"PARTY ALL NIGHT", /*7*/
+	"THE WILD AND THE YOUNG", /*8*/
+	"LET'S GET CRAZY", /*9*/
+	"BAD BOY", /*10*/
+	"WINNERS TAKE ALL", /*11*/
+	"TWILIGHT HOTEL", /*12*/
+	"BANG YOUR HEAD", /*13*/
+	"CONDITION CRITICAL", /*14*/
+	"SIGN OF THE TIMES", /*15*/
+	"SLAVE TO LOVE", /*16*/
+	"DON'T WANNA BE YOUR FOOL", /*17*/
+	"CUM ON FEEL THE NOIZE ", /*18*/
+	"PUT UP OR SHUT UP", /*19*/
+	"THE PUMP", /*20*/
+]
